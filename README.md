@@ -1,1 +1,1 @@
-Repository for study lesson from CodeAcademy
+Repository for study lessons from CodeAcademy
