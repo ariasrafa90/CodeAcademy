@@ -10,3 +10,4 @@ Testing a new commit on master branch
 6) Again, Another commit with master branch
 7) Branch B commit #1
 8) Branch B commit #2
+9) Commit for test on master branch
