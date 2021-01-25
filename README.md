@@ -7,3 +7,4 @@ Testing a new commit on master branch
 3) A 2nd commit with master branch after merge with branch-a and before a new commit from branch-a
 4) Branch A Commit #2
 5) Branch B commit #1
+6) Branch B commit #2
